@@ -2557,6 +2557,13 @@ fieldset:disabled a.btn {
   border-color: #24262a;
 }
 
+.btn-primary-center {
+  color: #fff;
+  background-color: #24262a;
+  border-color: #24262a;
+  text-align: center;
+}
+
 .btn-primary:hover {
   color: #fff;
   background-color: #0069d9;
@@ -4812,6 +4819,7 @@ input[type="button"].btn-block {
 
 .card-title {
   margin-bottom: 0.75rem;
+  text-align: center;
 }
 
 .card-subtitle {
